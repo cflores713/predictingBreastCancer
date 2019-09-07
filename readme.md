@@ -1,9 +1,9 @@
-#### Using Machine Learning tools to predict a patient's diagnosis from biopsy data
-Carlos Flores & Shawn Byrnes
+## Using Machine Learning tools to predict a patient's diagnosis from biopsy data
+## Carlos Flores & Shawn Byrnes
 
 ![Image of biopsy](https://github.com/cflores713/predictingBreastCancer/blob/master/biopsy.png)
 
-Recent studies have found that women with a history of a false-positive mammogram results may be at increased risk of developing subsequent breast cancer, but the origin of these regularities has remained opaque. I analyzed the physical characteristics of biopsy data to develop various successful predictive models needed to for such regularities to emerge. 
+Recent studies have found that women with a history of a false-positive mammogram results may be at increased risk of developing subsequent breast cancer, but the origin of these regularities has remained opaque. We analyzed the physical characteristics of biopsy data to develop various successful predictive models needed to for such regularities to emerge. 
 
 ![Image of CM](https://github.com/cflores713/predictingBreastCancer/blob/master/rp2c1.png)
 
